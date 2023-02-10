@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(41, 9, 61);
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  header h1 {
+    font-family: Impact;
+    box-shadow: inset;
+    font-weight: 300;
+    color: azure;
+    font-size: 85px;
+    font-style: oblique;
+    text-align: center;
+
+  }
+  
+  h2 {
+    font-family: fantasy;
+    color: rgb(192, 204, 205);
+    font-size: 45px;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  p1{
+    font-family: monospace;
+    font-size: 15px;
+    color: rgb(210, 150, 196);
+    line-height: 1.5;
+  }
+  
+  p2{
+    font-family: unset;
+    font-size: 15px;
+    color: rgb(156, 99, 209);
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  p3 {
+    font-family: serif;
+    color: rgb(237, 138, 198);
+    text-align:center;
+  }
+  p4{
+    font-family: cursive;
+    color: rgb(167, 136, 176);
+    text-align: center;
+  }
+  p5{
+    font-family: serif;
+    color: rgb(163, 202, 235);
+  }
+  p6{
+    font-family: inherit;
+    color: rgb(111, 111, 151);
+
+  }
